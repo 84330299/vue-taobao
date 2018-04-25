@@ -4,14 +4,14 @@
       <div @click="reTurn" class="lt">
         <img src="../../assets/deatil/Wreturn.png" alt="" class="wlt">
       </div>
-      <router-link  class="shopCart" to="/shopcart" tag="div">
+      <a  class="shopCart" href="/shopcart">
           <img src="../../assets/deatil/wcart.png" alt="">
-      </router-link >
+      </a >
     </div>
     <div class="header2">
-      <div class="blt" @click="reTurn">
-        <img src="../../assets/deatil/Breturn.png" alt="" class="Blt" @click="reTurn">
-      </div>
+      <a class="blt" href="/" >
+        <img src="../../assets/deatil/Breturn.png" alt="" class="Blt">
+      </a>
       <ul class="nav">
         <li class="active">商品</li>
         <li>评价</li>

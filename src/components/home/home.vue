@@ -61,22 +61,25 @@
             let $returnTop = $('#returnTop');
             let $target;
             $target = $(window);
-            function detailTop() {
+             var $feature = $('#feature');
 
-              var number = parseInt($('#feature').offset().top-200).toString();
-              number.split('');
-              var clone = [];
+              function detailTop() {
+                  if($feature){
+                    var number = parseInt($feature.offset().top - 200).toString();
+                    number.split('');
+                    var clone = [];
+                  }
 
-              for (var a in number) {
-                clone[a] = number[a];
+                for (var a in number) {
+                  clone[a] = number[a];
+                }
+                if (clone.length == 4) clone.splice(3, 1, '0')
+                if (clone.length == 3) clone.splice(2, 1, '0')
+
+                var newNumber = clone.join('') * 1;
+                return newNumber;
               }
-              if(clone.length == 4)clone.splice(3, 1, '0')
-              if(clone.length == 3)clone.splice(2, 1, '0')
 
-              var newNumber = clone.join('') * 1;
-              return newNumber;
-
-            }
 
             function htmlTop(){
 
@@ -95,13 +98,14 @@
             }
 
 
-            $(window).scroll(function(){
-              if(htmlTop()>=detailTop()){
-                $returnTop.css('display','block')
-              }else{
-                $returnTop.css('display','none')
-              }
-            })
+              $(window).scroll(function(){
+                if(htmlTop()>=detailTop()){
+                  $returnTop.css('display','block')
+                }else{
+                  $returnTop.css('display','none')
+                }
+              })
+
 
             $returnTop.click(function(){
               var bTop = htmlTop();

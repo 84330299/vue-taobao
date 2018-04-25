@@ -9,7 +9,7 @@ import shopCart from '../components/shopCart/shopCart.vue'
 
 Vue.use(Router)
 export default new Router({
-  mode: 'history',
+  mode: "history",
   routes: [
     {path:'/',redirect:'/home'},
     {path:'/home',component: home,meta:{title:'淘宝网高仿版'}},

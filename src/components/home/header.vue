@@ -5,7 +5,7 @@
       </div>
       <div class="search-wrap">
         <i class="icon">
-          <img src="../../assets/home/search.png" alt="" width="15" height="15">
+          <img src="../../assets/home/search.png" alt="">
         </i>
         <span>寻找宝贝店铺</span>
       </div>

@@ -2,7 +2,7 @@
     <div id="express">
         <header class="eHead">
           <ul>
-            <li class="return" @click="reTurn()">返回</li>
+            <a class="return" href="/">返回</a>
             <li class="text"><span>物流订单</span><i class="aw"></i></li>
           </ul>
         </header>
@@ -24,9 +24,6 @@
 <script>
     export default{
         methods:{
-          reTurn(){
-            this.$router.push({path:'/home'});
-          }
         }
     }
 </script>
