@@ -102,19 +102,13 @@ The following time will be slowly improved! I'm still young! Please look forward
 
 # Project effect screenshot
 
-! [(https://github.com/junephone/vue-taobao/blob/maste/static/zs/good1.gif) <br>
-
-! [(https://github.com/junephone/vue-taobao/blob/maste/static/zs/good2.gif) <br>
-
-! [(https://github.com/junephone/vue-taobao/blob/maste/static/zs/good3.gif) <br>
-
-! [] (https://github.com/junephone/vue-taobao/blob/maste/static/zs/home.png)
-
-! [] (https://github.com/junephone/vue-taobao/blob/maste/static/zs/express.png)
-
-! [] (https://github.com/junephone/vue-taobao/blob/maste/static/zs/shopcart.png)
-
-! [] (https://github.com/junephone/vue-taobao/blob/maste/static/zs/mytaobao.png)
+![](https://github.com/junephone/vue-taobao/blob/master/src/assets/zs/good1.gif)<br>
+![](https://github.com/junephone/vue-taobao/blob/master/src/assets/zs/good2.gif)<br>
+![](https://github.com/junephone/vue-taobao/blob/master/src/assets/zs/good3.gif)<br>
+![](https://github.com/junephone/vue-taobao/blob/master/src/assets/zs/home.png)
+![](https://github.com/junephone/vue-taobao/blob/master/src/assets/zs/express.png)
+![](https://github.com/junephone/vue-taobao/blob/master/src/assets/zs/shopcart.png)
+![](https://github.com/junephone/vue-taobao/blob/master/src/assets/zs/mytaobao.png)
 
 
 
