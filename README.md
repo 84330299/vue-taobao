@@ -65,7 +65,7 @@
 ![](https://github.com/junephone/vue-taobao/blob/master/src/assets/zs/good1.gif)<br>
 ![](https://github.com/junephone/vue-taobao/blob/master/src/assets/zs/good2.gif)<br>
 ![](https://github.com/junephone/vue-taobao/blob/master/src/assets/zs/good3.gif)<br>
-![](https://github.com/junephone/vue-taobao/blob/master/src/assets/zs/home.png)
+![](https://github.com/junephone/vue-taobao/blob/master/src/assets/zs/home.jpg)
 ![](https://github.com/junephone/vue-taobao/blob/master/src/assets/zs/express.png)
 ![](https://github.com/junephone/vue-taobao/blob/master/src/assets/zs/shopcart.png)
 ![](https://github.com/junephone/vue-taobao/blob/master/src/assets/zs/mytaobao.png)
