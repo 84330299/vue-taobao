@@ -23,7 +23,7 @@
           }
         },
         mounted(){
-              axios.get('/static/data.json').then(res=>{
+              axios.get('/static/home.json').then(res=>{
                 this.pics = res.data.cheap;
               });
        }

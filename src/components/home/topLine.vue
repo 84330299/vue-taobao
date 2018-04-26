@@ -43,7 +43,7 @@
               },3000);
             })
           })*/
-        axios.get('/static/data.json').then(res => {
+        axios.get('/static/home.json').then(res => {
           this.datas = res.data.topLine
           this.$nextTick(()=>{
             var oUl = document.querySelectorAll("#topLine ul.animate"),

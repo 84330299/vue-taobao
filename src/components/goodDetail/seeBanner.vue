@@ -112,7 +112,7 @@
         }
       },
         mounted(){
-          axios.get('/static/data.json').then(res=> {
+          axios.get('/static/goodDetail.json').then(res=> {
               let queryId = this.$route.query.id;
               let goodData = res.data.details;
               for (let value in goodData) {

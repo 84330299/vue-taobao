@@ -74,26 +74,8 @@
         }
       },
        mounted(){
-           axios.get('/static/data.json').then(res=>{
+           axios.get('/static/home.json').then(res=>{
              this.likes = res.data.like;
-             this.$nextTick(()=>{
-               let $goodLi = $('.goodMain li'),
-                   $load = $('#loading'),
-                   $homeMain = $('.homeMain'),
-                   $goodDetail = $('#goodDeatil');
-              /* $goodLi.eq(0).click(function(){
-                  $homeMain.css('opacity','0').add($load.fadeIn(2000,function(){
-                    $goodDetail.css('display','block').add($load.css('display','none')).add($goodDetail.css('opacity',1));
-                    $(window).scrollTop(0);
-                  }));
-                 });*/
-              /* $goodLi.eq(1).click(function(){
-                 $homeMain.css('display','none').add($load.fadeIn(2000,function(){
-                   $goodDetail.css('display','block').add($load.css('display','none')).add($goodDetail.css('opacity',1));
-                   $(window).scrollTop(0);
-                 }));
-               });*/
-             })
            })
        },
       components:{

@@ -54,8 +54,6 @@
   import axios from 'axios'
     export default{
       mounted(){
-        axios.get('/static/data.json').then(res => {
-          this.homeData = res.data.like;
           this.$nextTick(() => {
 
             let $returnTop = $('#returnTop');
@@ -117,7 +115,6 @@
             })
 
           })
-        })
       },
       components:{
         vHead,
