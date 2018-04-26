@@ -88,7 +88,7 @@
         }
       },
       mounted(){
-        axios.get('static/data.json').then(res=>{
+        axios.get('/static/data.json').then(res=>{
            let queryId = this.$route.query.id
            this.queryId = this.$route.query.id
            let getData = res.data.details

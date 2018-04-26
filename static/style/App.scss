@@ -1268,7 +1268,7 @@ body,html{
         margin-bottom: $r25;
         .lq{
           position: absolute;
-          top: 46%;
+          top: 51%;
           right: 0;
           width: $r40;
           height: $r20;
@@ -1472,6 +1472,7 @@ body,html{
         }
         .li11{
           margin-top: $r20;
+          margin-bottom: .33rem;
           @include displayflex;
           position: relative;
           .select,.dot{

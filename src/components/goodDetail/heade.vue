@@ -4,9 +4,9 @@
       <div @click="reTurn" class="lt">
         <img src="../../assets/deatil/Wreturn.png" alt="" class="wlt">
       </div>
-      <a  class="shopCart" href="/shopcart">
+      <router-link  to='shopcart' class="shopCart">
           <img src="../../assets/deatil/wcart.png" alt="">
-      </a >
+      </router-link>
     </div>
     <div class="header2">
       <a class="blt" href="/" >
@@ -17,7 +17,7 @@
         <li>评价</li>
         <li>详情</li>
       </ul>
-      <router-link  to='/shopcart' tag='div' class="bshopCart clearfix">
+      <router-link  to='shopcart' tag='div' class="bshopCart clearfix">
         <img src="../../assets/deatil/bcart.png" alt="">
       </router-link>
     </div>
@@ -183,7 +183,7 @@
       },
       methods:{
         reTurn(){
-          this.$router.push({ path: '/home' })
+          this.$router.push({ path: '/' })
         }
       }
     }

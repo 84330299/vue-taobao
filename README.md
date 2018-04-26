@@ -6,7 +6,7 @@
 还不如抄起键盘来写项目来的实际！只有在实践中不断解决问题突破！！才感觉能学到很多！同时也有动力去学习不会枯燥！所以废话不多说就上网搜索了下各种资源
 感觉淘宝不错！还能研究下flexible(自适应伸缩布局)
 
-这个项目基于(vue2.XXX+vue-router+vuex+webpackr+axios+better-scroll)等完成的还有一些插件吧！具体自己去看
+这个小项目基于(vue2.XXX+vue-router+vuex+webpackr+axios+better-scroll)等完成的还有一些插件吧！具体自己去看
 
 写完这个项目我学到了很多比如各种组件指令、计算属性、父与子传值、子与父传值、v-model的双向绑定、还有vue-router的路由守卫、嵌套路由等等有了一定的了解
 还有感觉vuex就是管理数据的，对组件的的状态管理说白了就是对数据执行一些操作（过滤计算）！唯一不太懂的是Action。。
@@ -16,6 +16,7 @@
 还有记得给我个star哦！(或者watch、fork我 后续我会出更多的项目的)谢谢^_^！
 我的QQ672315226,Weacheat:672315226，欢迎各位来找我交流提出建议指出不足！谢谢！(半夜别来找我)
 我有很多资源哦！各种框架项目的都有！你懂的哈哈！
+
 
 
 # 技术栈
@@ -69,6 +70,12 @@
 ![](https://github.com/junephone/vue-taobao/blob/master/src/assets/zs/express.png)
 ![](https://github.com/junephone/vue-taobao/blob/master/src/assets/zs/shopcart.png)
 ![](https://github.com/junephone/vue-taobao/blob/master/src/assets/zs/mytaobao.png)
+
+
+## 注意
+项目还有些bug如果遇到404请重新输入vuetaobao.top
+欢迎各位踊跃提建议或者和我一起修改！代码有点乱别介意哈！^_^!
+
 
 
 ## 项目运行

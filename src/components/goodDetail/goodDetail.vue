@@ -27,6 +27,7 @@
   import morerat from  './morerating.vue'
   import sKu from '../goodDetail/sku.vue'
   export default{
+      name:'goodDetail',
       data(){
         return {
           goodList:[
@@ -38,7 +39,7 @@
         }
       },
       mounted(){
-          axios.get('static/data.json').then(res=>{
+          axios.get('/static/data.json').then(res=>{
               let queryId = this.$route.query.id;
               let goodData = res.data.details;
             for(let value in goodData) {
