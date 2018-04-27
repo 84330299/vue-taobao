@@ -13,6 +13,7 @@
         {"express":"快递:0.00","seller":"月销售量:1790件","area":"广东广州"},
         {
           "img":"//img.alicdn.com/tfs/TB1l54RRXXXXXabXpXXXXXXXXXX-180-36.png_240x5000Q50s50.jpg",
+          "ql":"领取",
           "goodtxt":"全天猫实物商品通用"
         },
         {
@@ -437,7 +438,8 @@
         {"express":"快递:0.00","seller":"月销售量:1790件","area":"广东广州"},
         {
           "img":"//img.alicdn.com/tfs/TB1l54RRXXXXXabXpXXXXXXXXXX-180-36.png_240x5000Q50s50.jpg",
-          "goodtxt":"全天猫实物商品通用"
+          "goodtxt":"全天猫实物商品通用",
+          "ql":"领取"
         },
         {
           "img":"//img.alicdn.com/tfs/TB1XjtERXXXXXbPXFXXXXXXXXXX-180-36.png_240x5000Q50s50.jpg",
@@ -939,7 +941,8 @@
         {"express":"快递:0.00","seller":"月销售量:1790件","area":"广东深圳"},
         {
           "img":"//img.alicdn.com/tfs/TB1l54RRXXXXXabXpXXXXXXXXXX-180-36.png_240x5000Q50s50.jpg",
-          "goodtxt":"全天猫实物商品通用"
+          "goodtxt":"全天猫实物商品通用",
+          "ql":"领取"
         },
         {
           "img":"//img.alicdn.com/tfs/TB1XjtERXXXXXbPXFXXXXXXXXXX-180-36.png_240x5000Q50s50.jpg",
@@ -1467,7 +1470,8 @@
         {"express":"快递:0.00","seller":"月销售量:1790件","area":"广东深圳"},
         {
           "img":"//img.alicdn.com/tfs/TB1l54RRXXXXXabXpXXXXXXXXXX-180-36.png_240x5000Q50s50.jpg",
-          "goodtxt":"全天猫实物商品通用"
+          "goodtxt":"全天猫实物商品通用",
+          "ql":"领取"
         },
         {
           "img":"//img.alicdn.com/tfs/TB1XjtERXXXXXbPXFXXXXXXXXXX-180-36.png_240x5000Q50s50.jpg",
@@ -1987,7 +1991,8 @@
         {"express":"快递:0.00","seller":"月销售量:1790件","area":"广东深圳"},
         {
           "img":"//img.alicdn.com/tfs/TB1l54RRXXXXXabXpXXXXXXXXXX-180-36.png_240x5000Q50s50.jpg",
-          "goodtxt":"全天猫实物商品通用"
+          "goodtxt":"全天猫实物商品通用",
+          "ql":"领取"
         },
         {
           "img":"//img.alicdn.com/tfs/TB1XjtERXXXXXbPXFXXXXXXXXXX-180-36.png_240x5000Q50s50.jpg",
@@ -2514,7 +2519,8 @@
         {"express":"快递:0.00","seller":"月销售量:1790件","area":"广东深圳"},
         {
           "img":"//img.alicdn.com/tfs/TB1l54RRXXXXXabXpXXXXXXXXXX-180-36.png_240x5000Q50s50.jpg",
-          "goodtxt":"全天猫实物商品通用"
+          "goodtxt":"全天猫实物商品通用",
+          "ql":"领取"
         },
         {
           "img":"//img.alicdn.com/tfs/TB1XjtERXXXXXbPXFXXXXXXXXXX-180-36.png_240x5000Q50s50.jpg",

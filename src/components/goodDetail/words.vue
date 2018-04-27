@@ -1,7 +1,6 @@
 <template>
     <div id="words">
       <ul class="wordmain">
-        <div class="lq">领取</div>
         <li v-for="(item,index) in datas.words"
             :class="{
               'li1':index===0,
@@ -28,8 +27,9 @@
             <span>{{item.seller}}</span>
             <span>{{item.area}}</span>
           </div>
-          <img :src="item.img" alt="" class="icon" >
-          <div class="goodtxt">{{item.goodtxt}}</div>
+            <img :src="item.img" alt="" class="icon" >
+            <div class="goodtxt">{{item.goodtxt}}</div>
+            <div class="lq">{{item.ql}}</div>
           <div class="jf">{{item.jf}}<span class="jftxt">{{item.jftxt}}</span></div>
           <div class="bz">{{item.bz}}</div>
           <div class="fast">{{item.fast}}</div>

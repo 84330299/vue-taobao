@@ -1277,19 +1277,6 @@ body,html{
       ul.wordmain{
         position: relative;
         margin-bottom: $r25;
-        .lq{
-          position: absolute;
-          top: 5.2rem;
-          right: 0;
-          width: $r40;
-          height: $r20;
-          line-height: $r20;
-          font-size: $r12;
-          color: #999;
-          border: 1px solid #999;
-          text-align: center;
-          border-radius: 10px;
-        }
         .li1{
           height: 1.08rem;
         }
@@ -1388,11 +1375,25 @@ body,html{
           }
         }
         .li7{
+          position: relative;
           margin-top: $r15;
+          .lq{
+            position: absolute;
+            top: .1rem;
+            right: 0;
+            width: $r40;
+            height: $r20;
+            line-height: $r20;
+            font-size: $r12;
+            color: #999;
+            border: 1px solid #999;
+            text-align: center;
+            border-radius: 10px;
+          }
         }
         .li8{
-          position: relative;
           margin-bottom: $r15;
+          position: relative;
           &:after{
             content:'';
             @include line1;
@@ -1484,6 +1485,7 @@ body,html{
         .li11{
           margin-top: $r20;
           margin-bottom: .33rem;
+          height: .8rem;
           @include displayflex;
           position: relative;
           .select,.dot{
@@ -1503,6 +1505,7 @@ body,html{
         .li12{
           position: relative;
           margin-bottom:  $r20;
+          height: .8rem;
           @include displayflex;
           .product,.dot{
             @include flex;
