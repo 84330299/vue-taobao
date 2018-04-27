@@ -74,8 +74,8 @@
 
 
 ## 如果喜欢该项目或觉得该项目对你学习vue有帮助的话！欢迎打赏O(∩_∩)O哈哈~
-![](https://github.com/junephone/vue-taobao/blob/master/src/assets/zs/pay.png)<br>
-![](https://github.com/junephone/vue-taobao/blob/master/src/assets/zs/weacheat.png)<br>
+![](https://github.com/junephone/vue-taobao/blob/master/src/assets/zs/pays.png)<br>
+![](https://github.com/junephone/vue-taobao/blob/master/src/assets/zs/weacheats.png)<br>
 
 
 ## 注意

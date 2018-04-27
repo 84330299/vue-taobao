@@ -115,9 +115,8 @@ The following time will be slowly improved! I'm still young! Please look forward
 
 ## If you like the project, or feel that this project will help you learn Vue! Welcome to O O ha ha ~
 
-! [(https://github.com/junephone/vue-taobao/blob/master/src/assets/zs/pay.png) <br>
-
-! [(https://github.com/junephone/vue-taobao/blob/master/src/assets/zs/weacheat.png) <br>
+! [(https://github.com/junephone/vue-taobao/blob/master/src/assets/zs/pays.png) <br>
+! [(https://github.com/junephone/vue-taobao/blob/master/src/assets/zs/weacheats.png) <br>
 
 
 
