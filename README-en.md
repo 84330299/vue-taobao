@@ -113,7 +113,22 @@ The following time will be slowly improved! I'm still young! Please look forward
 
 
 
-## Operation of the project
+## If you like the project, or feel that this project will help you learn Vue! Welcome to O O ha ha ~
+
+! [(https://github.com/junephone/vue-taobao/blob/master/src/assets/zs/pay.png) <br>
+
+! [(https://github.com/junephone/vue-taobao/blob/master/src/assets/zs/weacheat.png) <br>
+
+
+
+
+## Pay attention to
+
+Router's history mode still can't play, so it's not written.
+
+Also some bug project if 404 or pictures don't show please refresh or re input vuetaobao.top
+
+You are welcome to make suggestions or make changes with me. The code is a bit of a mess. So!
 
 
 

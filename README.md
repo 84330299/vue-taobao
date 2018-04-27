@@ -73,6 +73,11 @@
 ![](https://github.com/junephone/vue-taobao/blob/master/src/assets/zs/mytaobao.png)
 
 
+## 如果喜欢该项目或觉得该项目对你学习vue有帮助的话！欢迎打赏O(∩_∩)O哈哈~
+![](https://github.com/junephone/vue-taobao/blob/master/src/assets/zs/pay.png)<br>
+![](https://github.com/junephone/vue-taobao/blob/master/src/assets/zs/weacheat.png)<br>
+
+
 ## 注意
 router的history模式还玩不来所以就没写了。
 项目还有些bug如果遇到404或者图片不显示请刷新或重新输入vuetaobao.top
