@@ -15,7 +15,7 @@
       <a  class="addShop">
         加入购物车
       </a>
-      <a href="">
+      <a>
         立即购买
       </a>
     </footer>

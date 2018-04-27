@@ -1214,18 +1214,18 @@ body, html {
       width: 10rem;
       height: 10rem; }
       #goodDeatil #Banner #swpier6 .swiper-pagination-fraction {
-        width: 35px !important;
+        width: 0.9459459459rem !important;
         left: auto !important;
-        padding: 0 10px !important;
-        line-height: 20px !important;
-        height: 20px !important;
-        border-radius: 10px !important;
+        padding: 0 0.2702702703rem !important;
+        line-height: 0.5405405405rem !important;
+        height: 0.5405405405rem !important;
+        border-radius: 0.2702702703rem !important;
         background-color: rgba(100, 100, 100, 0.6) !important;
         transform: translate(-6%, -8%) !important;
         bottom: 0 !important;
         right: 0;
         top: auto !important;
-        font-size: 15px !important; }
+        font-size: 13px !important; }
     #origin-img {
       z-index: 9999;
       display: none;

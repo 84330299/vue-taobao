@@ -11,7 +11,7 @@
             <p class="name">
               {{item.text}}
             </p>
-            <p class="price">￥&nbsp&nbsp{{item.price}}</p>
+            <p class="price">&nbsp&nbsp￥{{item.price}}</p>
           </router-link>
          <!-- <li>
             <img data-echo="//img.alicdn.com/bao/uploaded/i2/3547214471/TB1PmNCkAfb_uJjSsrbXXb6bVXa_!!0-item_pic.jpg_q50.jpg" alt="" class="img">
