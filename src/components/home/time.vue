@@ -44,9 +44,6 @@
                     return;
                   }
                   d.setSeconds(s - 1);
-                    /*for(var i=0;i<xImg.length;i++) {
-                      xImg[i].src = arrUrl[parseInt(timer.charAt(i))]
-                    }*/
                 }, 1000);
               }
             });
