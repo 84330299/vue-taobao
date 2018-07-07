@@ -28,7 +28,7 @@
 
 > [vue-resource](https://www.npmjs.com/package/vue-resource) 请求数据，服务器通讯，官方推荐[axios](https://www.npmjs.com/package/axios)请求数据，本项目后期改用[axios](https://www.npmjs.com/package/axios)。
 
-> [vuex](https://vuex.vuejs.org/zh-cn/) 是一个专为 vue.js 应用程序开发的状态管理模式，简单来说Vuex就是管理数据的。
+> [vuex](https://vuex.vuejs.org/zh-cn/) 是一个专为  vue.js 应用程序开发的状态管理模式，简单来说Vuex就是管理数据的。
 
 主要是这几个吧!还有的swiper、Mint UI、等等这些自己上网百度吧一堆!
 
